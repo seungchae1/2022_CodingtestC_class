@@ -39,5 +39,8 @@
     <ClCompile Include="SearchString.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PointerEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
