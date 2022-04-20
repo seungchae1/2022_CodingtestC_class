@@ -45,5 +45,8 @@
     <ClCompile Include="ptr.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gugudan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
